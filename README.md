@@ -1,8 +1,8 @@
-# {First Webpage}
+# README PRACTICE
 #### {Brief description of application}, {Date of current version}
 #### By **{List of contributors}**
 ## Description
-{This is just practice on how to write a README}
+This is just practice on how to write a README
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
